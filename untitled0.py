@@ -15,4 +15,4 @@ ar = np.array([2,1,6,4,3,2,8,1,5])
 Mean= np.sum(ar)/len(ar)
 print(Mean)
 
-np.mean(ar)
+Mean = np.mean(ar)
